@@ -1,3 +1,5 @@
+#Algoritmo criado com o objetivo de realizar sorteio, inserido o nome do doador de acordo com a quantia doada.
+
 #Conforme orientação do exercício foi feita a importação da biblioteca ran-dom.
 import random
 #Criada lista vazia para que sejam inclusos os nomes do doadores.
