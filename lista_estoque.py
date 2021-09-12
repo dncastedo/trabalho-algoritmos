@@ -1,3 +1,5 @@
+#Algoritmo criado para organizar uma lista de estoque.
+
 #Criada lista vazia para receber os valores que serão armazenados.
 
 lista = []
