@@ -1,4 +1,4 @@
-#Algoritmo criado para organizar uma lista de estoque.
+#Algoritmo criado para organizar uma lista de estoque e inserir novos produtos.
 
 #Criada lista vazia para receber os valores que serão armazenados.
 
